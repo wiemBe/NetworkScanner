@@ -1,6 +1,7 @@
 # Network Scanner
 
 A network scanner is a basic tool for finding IP and MAC addresses in a network.
+![alt text](https://github.com/wiemBe/NetworkScanner/blob/main/utils/Usage.png)
 
 ## Required Frameworks
 
